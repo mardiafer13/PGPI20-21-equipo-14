@@ -1,0 +1,14 @@
+WHATSNEW PGPI 2020/2021 GRUPO 14
+-Fase de Ejecución(Dentro del documento de Planificación)
+	-Sprint 1: elaboración de las actas de las reuniones celebradas, historias de usuario, diagrama de clases y mockups.
+	-Sprint 2: actas, informe de seguimiento y control (Dentro del documento de Planificación),solicites de adquisiciones,adquisiciones realizadas,
+	  solicitudes de cambios, cambios realizados, método del valor ganado, control del tiempo, cumplimiento metricas de calidad,control de riesgos,
+	  actualizacion de los riesgos, control de requisitos, actualizaciones al plan, actualización al cronograma y evidencias.
+-Informe de desempeño (Documento aparte)
+-Informe Clockify (Documento aparte)
+-Graficas Product y Sprint Burndown (Documento aparte)
+(Product Burndown realizada en el Sprint 1 correspondería al Sprint Burndown 1 que tambien se incluye)
+-Lecciones aprendidas
+-Early Product (alojado en https://server371745.vservers.es/ )
+
+	
